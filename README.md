@@ -22,6 +22,7 @@ Prototipo académico que integra análisis técnico de dominios, evaluación GRC
 ## Casos académicos documentados
 
 - [Infraestructura crítica y SGSI — AquaSur](proyectos/infraestructura-critica-sgsi.md)
+- [Gestión de activos de información — CRANEO](proyectos/gestion-activos-craneo.md)
 - [Adquisición y verificación de evidencia digital](proyectos/adquisicion-forense.md)
 - [Políticas de seguridad en la nube](proyectos/politicas-seguridad-nube.md)
 - [Diseño de CSIRT corporativo](proyectos/diseno-csirt.md)
