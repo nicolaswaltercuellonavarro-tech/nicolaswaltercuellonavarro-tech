@@ -26,6 +26,7 @@ Prototipo académico que integra análisis técnico de dominios, evaluación GRC
 - [Políticas de seguridad en la nube](proyectos/politicas-seguridad-nube.md)
 - [Diseño de CSIRT corporativo](proyectos/diseno-csirt.md)
 - [Análisis forense de red con Wireshark y TShark](proyectos/forense-red-wireshark.md)
+- [Análisis forense de memoria con Volatility](proyectos/forense-memoria-volatility.md)
 
 Resúmenes de trabajos recuperados del archivo académico, con créditos de sus integrantes y alcance del ejercicio.
 
