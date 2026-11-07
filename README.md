@@ -1,5 +1,7 @@
 # Hola, soy Nicolás Cuello Navarro
 
+**Cybersecurity Engineering Student | GRC & IT Risk | Infrastructure Monitoring**
+
 Estudiante de último año de Ingeniería en Informática, mención Ciberseguridad, en el Instituto Profesional Los Leones, Santiago de Chile.
 
 Busco una práctica profesional en ciberseguridad, gestión de riesgos TI o monitoreo de infraestructura.
@@ -22,8 +24,24 @@ Prototipo académico que integra análisis técnico de dominios, evaluación GRC
 - [Infraestructura crítica y SGSI — AquaSur](proyectos/infraestructura-critica-sgsi.md)
 - [Adquisición y verificación de evidencia digital](proyectos/adquisicion-forense.md)
 - [Políticas de seguridad en la nube](proyectos/politicas-seguridad-nube.md)
+- [Diseño de CSIRT corporativo](proyectos/diseno-csirt.md)
+- [Análisis forense de red con Wireshark y TShark](proyectos/forense-red-wireshark.md)
 
 Resúmenes de trabajos recuperados del archivo académico, con créditos de sus integrantes y alcance del ejercicio.
+
+## Formación complementaria verificada
+
+- Gobernanza en Ciberseguridad — Instituto Profesional Los Leones, 210 horas pedagógicas.
+- Seguridad de Redes — Instituto Profesional Los Leones, 284 horas pedagógicas.
+- Pentesting — Instituto Profesional Los Leones, 105 horas pedagógicas.
+- Network Security — Cisco Networking Academy.
+- CCNAv7: Switching, Routing and Wireless Essentials — Cisco Networking Academy.
+- CCNAv7: Introducción a Redes — Cisco Networking Academy.
+- Administración de Amenazas Cibernéticas — Cisco Networking Academy.
+- Introducción al Internet de las Cosas y Transformación Digital — Cisco Networking Academy.
+- Protege tu Negocio: Ciberseguridad en el Teletrabajo — Google Actívate.
+
+Los cursos de Networking Academy son credenciales de finalización de formación; no se presentan como una certificación profesional CCNA.
 
 ## Herramientas
 
