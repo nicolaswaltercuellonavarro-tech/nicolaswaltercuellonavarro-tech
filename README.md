@@ -17,6 +17,14 @@ Prototipo académico que integra análisis técnico de dominios, evaluación GRC
 - **Análisis forense:** Volatility 3, Wireshark y análisis de memoria y tráfico de red en laboratorio.
 - **Redes:** VLAN, ACL, VPN y fundamentos de seguridad perimetral.
 
+## Casos académicos documentados
+
+- [Infraestructura crítica y SGSI — AquaSur](proyectos/infraestructura-critica-sgsi.md)
+- [Adquisición y verificación de evidencia digital](proyectos/adquisicion-forense.md)
+- [Políticas de seguridad en la nube](proyectos/politicas-seguridad-nube.md)
+
+Resúmenes de trabajos recuperados del archivo académico, con créditos de sus integrantes y alcance del ejercicio.
+
 ## Herramientas
 
 Python · Bash · Linux · FastAPI · Git · Zabbix · Wireshark
